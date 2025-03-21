@@ -1,1 +1,2 @@
 Azure DevOps Mobile App
+# keep defaults in sync with the manifest
